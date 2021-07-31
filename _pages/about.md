@@ -12,4 +12,4 @@ I am Ye Dong (董业), a Ph.D. student at Institute of Information Engineering, 
 
 Reseach Topics
 ======
-I mainly focus on Privacy-Preserving Machine Learning, including Secure Multi-Party Computation, Homomorphic Encryption, and Distributed Machine Learning/Federated Learning. 
+Privacy-Preserving Enhancement Technologies, Secure Multi-Party Computation, Homomorphic Encryption, Distributed Machine Learning, and Federated Learning. 

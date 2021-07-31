@@ -11,30 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Student in Cyber Security in IIE, CAS & School of Cyber Security, UCAS. 2018 - 2023 (expected)
+* B.S in School of Computer Science and Technology, SDU. 2014 - 2018
+* Exchanged student in School of Computer, BIT. 2015 - 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Oct. 2016 - June 2018: Research Assistant
+  * Isec LAB, SDU 
+  * Supervisor: Prof. Qiuliang Xu
 
 Publications
 ======
@@ -54,6 +39,33 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+  
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Program Languages:
+  * Python
+  * C/C++
+  * MATLAB
+* Software \& Tools:
+  * Pytorch
+  * Tensorflow
+  * LATEX
+  * Adobe Illustrator
+* Exercises:
+  * Ping-Pong
+  * Running
+
+
+Honors \& Awards
+======
+* Merit Student, from UCAS. (2020 \& 2021)
+* Institute Excellence Award, from IIE, CAS. (2020)
+* Second Campus Scholarship, from SDU. (2016)
+* School Scholarships, from BIT. (2016)
+* School Scholarships, from SDU. (Multiple Times)
+
+Miscellany
+=====
+* Attend CCF-YEF2021, Shenyang, May, 2021.
+* Attend the 25th European Symposium on Research in Computer Security (ESORICS'20), co-author, Virtual, Sep., 2020.
+* Speaker at the 21st International Conference on Information and Communications Security (ICICS'19), Beijing, Dec., 2019.
