@@ -7,4 +7,3 @@ venue: 'Computers & Security, 2020'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0167404820300985'
 Authors: Ye Dong, Xiaojun Chen, Liyan Shen, Dakui Wang
 ---
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S0167404820300985)
