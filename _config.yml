@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Ye Dong Personal page!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Ye-D"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/ye30477909"
+  twitter          : "ye30477909"
   vine             :
   weibo            :
   xing             :
