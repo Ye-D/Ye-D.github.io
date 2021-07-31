@@ -70,4 +70,4 @@ Miscellany
 * Attend the 25th European Symposium on Research in Computer Security (ESORICS'20), co-author, Virtual, Sep., 2020.
 * Speaker at the 21st International Conference on Information and Communications Security (ICICS'19), Beijing, Dec., 2019.
 
-Download [CV](files/CV_YeDong.pdf)
+Download [CV](/files/CV_YeDong.pdf).
