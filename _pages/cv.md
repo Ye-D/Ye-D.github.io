@@ -46,7 +46,7 @@ Skills
   * Python
   * C/C++
   * MATLAB
-* Software \& Tools:
+* Software & Tools:
   * Pytorch
   * Tensorflow
   * LATEX
@@ -56,9 +56,9 @@ Skills
   * Running
 
 
-Honors \& Awards
+Honors & Awards
 ======
-* Merit Student, from UCAS. (2020 \& 2021)
+* Merit Student, from UCAS. (2020 & 2021)
 * Institute Excellence Award, from IIE, CAS. (2020)
 * Second Campus Scholarship, from SDU. (2016)
 * School Scholarships, from BIT. (2016)
