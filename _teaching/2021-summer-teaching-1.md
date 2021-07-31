@@ -8,11 +8,9 @@ date: 2021-06-30
 location: "Beijing, China"
 ---
 
-This is a description of a teaching assistant experience of .
-
 Course
 ======
-Big Data Security and Privacy Preserving
+Big Data Security and Privacy Preserving (No. 0839X2M06002H)
 
 Assisgments
 ======
