@@ -6,3 +6,4 @@ date: 2019-12-15
 venue: '21st International Conference on Information and Communications Security'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-41579-2_40'
 ---
+Authors: **Ye Dong**, Xiaojun Chen, Liyan Shen, Dakui Wang
