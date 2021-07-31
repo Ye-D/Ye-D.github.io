@@ -14,10 +14,9 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    More: "https://www.zhihu.com/column/c_1121838720017338368"
     
   - title: "CV"
     url: /cv/
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Zhihu"
+    url: "https://www.zhihu.com/column/c_1121838720017338368"
