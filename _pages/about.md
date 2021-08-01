@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ye Dong academic personal websites"
+title: "Ye Dong Personal Websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,4 +12,4 @@ I am Ye Dong (董业), a Ph.D. student at Institute of Information Engineering, 
 
 Reseach Topics
 ======
-Privacy-Preserving Enhancement Technologies, Secure Multi-Party Computation, Homomorphic Encryption, Distributed Machine Learning, and Federated Learning. 
+**Privacy-Preserving Enhancement Technologies**, **Secure Multi-Party Computation**, **Homomorphic Encryption**, **Distributed Machine Learning**, and **Federated Learning**. 
