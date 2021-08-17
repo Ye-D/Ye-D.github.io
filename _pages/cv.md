@@ -68,6 +68,6 @@ Miscellany
 =====
 * Attend CCF-YEF2021, Shenyang, May, 2021.
 * Attend the 25th European Symposium on Research in Computer Security (ESORICS'20), co-author, Virtual, Sep., 2020.
-* Speaker at the 21st International Conference on Information and Communications Security (ICICS'19), Beijing, Dec., 2019.
+* Subreviewer for the 2020 International Conference on Frontiers in Cyber Security (FCS'20).
 
 Download [CV](/files/CV_YeDong.pdf).
