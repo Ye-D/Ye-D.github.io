@@ -66,7 +66,6 @@ Honors & Awards
 
 Miscellany
 =====
-* Presentation for the 26th European Symposium on Research in Computer Security (ESORICS'21), Virtual, Oct., 2021.
 * Reviewer for IEEE Systems Journal.
 * Attend CCF-YEF2021, Shenyang, May, 2021.
 * Attend the 25th European Symposium on Research in Computer Security (ESORICS'20), co-author, Virtual, Sep., 2020.
