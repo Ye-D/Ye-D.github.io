@@ -13,10 +13,10 @@ main:
   #  url: /portfolio/
         
   - title: "Posts"
-    url: /year-archive/
+    url: "https://github.com/Ye-D/PaperNotes-MPC"
     
   - title: "CV"
     url: "/files/CV_YeDong.pdf"
     
-  - title: "Zhihu"
-    url: "https://www.zhihu.com/column/c_1121838720017338368"
+  #- title: "Zhihu"
+  #  url: "https://www.zhihu.com/column/c_1121838720017338368"
