@@ -12,4 +12,4 @@ I am Ye Dong (董业), a Ph.D. student at Institute of Information Engineering, 
 
 Reseach Topics
 ======
-**Cryptography**, **Secure Multi-Party Computation**, **Homomorphic Encryption**, **Machine Learning**, **Federated Learning**. 
+**Cryptography**, **Secure Multi-Party Computation** (including **Secret Sharing**, **Garbled Circuits**, and **Homomorphic Encryption**), **Distributed Machine Learning**, **Federated Learning**. 
