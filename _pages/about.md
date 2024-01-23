@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I got my Ph.D. degree in Cyberspace Security at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS) and School of Cyber Security, University of Chinese Academy of Sciences (UCAS), under [Prof. Xiaojun Chen](http://people.ucas.ac.cn/~0040771). I got my bachelor degree in School of Computer Science and Technology, Shandong University, and had been an exchange student in [School of Computer, Beijing Institute of Technology](https://english.bit.edu.cn/schoold/a186889.htm). I had been one Research Assistant at [NETWORK & INFORMATION SECURITY LAB](http://www.isec.sdu.edu.cn/sysgk.htm) under [Prof. Qiuliang Xu](https://www.sc.sdu.edu.cn/info/1045/1736.htm) and [Prof Han Jiang](http://www.en.sc.sdu.edu.cn/info/1028/1155.htm). Now, I am serving as one Research Intern at Ant Cryptography & Privacy Lab, hosted by [Dr. Cheng Hong](https://github.com/vincehong). 
+I am serving as one Postdoctoral Research Fellow at [iTrust Lab, Singapore University of Technology and Design](https://itrust.sutd.edu.sg/), hosted by [Prof. Jianying Zhou](http://jianying.space/) and [Prof. Sudiputa Chattopadhyay](https://istd.sutd.edu.sg/people/faculty/sudipta-chattopadhyay/). 
+I got my Ph.D. degree in Cyberspace Security at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS) and School of Cyber Security, University of Chinese Academy of Sciences (UCAS), under [Prof. Xiaojun Chen](http://people.ucas.ac.cn/~0040771), and got my bachelor degree in School of Computer Science and Technology, Shandong University, where I had been a Research Assistant at the Cryptography and Privacy Computing Laboratory under [Prof. Qiuliang Xu](https://faculty.sdu.edu.cn/xuqiuliang/en/index/407176/list/index.htm) \& [Prof. Han Jiang](http://www.en.sc.sdu.edu.cn/info/1028/1155.htm).
 
-**I am on the Job Market & looking for a Postdoctoral position in MPC and Privacy-Preservation. Feel free to contact me!**
+**I am always looking for a acamedic collboration in MPC and Privacy-Preservation. Feel free to contact me!**
 
 
 Reseach Topics
@@ -24,3 +25,4 @@ Technologies
 
 
 Download [CV](/files/CV_YeDong.pdf) for more details.
+\textit{Latest Update on 23 Jan., 2024}
