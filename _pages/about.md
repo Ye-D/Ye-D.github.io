@@ -26,5 +26,5 @@ Technologies
 
 *Download [CV](/files/CV_YeDong.pdf) for more details. Latest Update on 23 Jan., 2024*
 
-<div id="clustrmaps-widget"></div>
+<div id="clustrmaps-widget" style="width: 200px; height: 200px;"></div>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=myIcfSm6nSakALWRvGdSczeehrJkaaIW7KM0lXM24Iw"></script>
