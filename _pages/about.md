@@ -28,8 +28,8 @@ Technologies
 
 <style>
 #clustrmaps-widget {
-    width: 1px;  /* Adjust width as needed */
-    height: 1px; /* Adjust height as needed */
+    width: 0.3px;  /* Adjust width as needed */
+    height: 0.3px; /* Adjust height as needed */
 }
 </style>
 
