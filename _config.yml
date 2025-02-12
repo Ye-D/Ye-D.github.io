@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ye Dong"
 title_separator          : "-"
 name                     : &name "Ye Dong"
-description              : &description "Postdoctoral Research Fellow at iTrust, SUTD"
+description              : &description "Research Fellow at SoC, NUS"
 url                      : https://ye-d.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ye-D/Ye-D.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ye Dong (董业)"
   avatar           : "profile.jpg"
-  bio              : "Doctoral in Cyberspace Security. Privacy-Preserving, MPC, Machine Learning, and Federated Learning."
+  bio              : "Ph.D. in Cyberspace Security. MPC, Privacy-Preserving Machine Learning, and Federated Learning."
   location         : "Singapore"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
