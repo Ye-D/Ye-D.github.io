@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am serving as Research Fellow at School of Computing, National University of Singapore (hosted by [Prof. Jinsong Dong](https://www.comp.nus.edu.sg/cs/people/dongjs/)) and College of Computing and Data Science, Nnayang Technological University (hosted by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/)). 
+I am serving as Research Fellow at School of Computing, National University of Singapore (hosted by [Prof. Jinsong Dong](https://www.comp.nus.edu.sg/cs/people/dongjs/)) and College of Computing and Data Science, Nanyang Technological University (hosted by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/)). 
 I got my Ph.D. degree in Cyberspace Security at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS) and School of Cyber Security, University of Chinese Academy of Sciences (UCAS), and got my bachelor degree in School of Computer Science and Technology, Shandong University.
 
 **I am always looking for academic collaboration in MPC, Homomorphic Encryption, and other Privacy-Computing Technologies. Feel free to contact me!**
