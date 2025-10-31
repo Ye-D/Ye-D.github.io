@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ye Dong Personal Websites"
+title: "Ye Dong (董业 in Chinese)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,16 +10,16 @@ redirect_from:
 I am serving as Research Fellow at School of Computing, National University of Singapore (hosted by [Prof. Jinsong Dong](https://www.comp.nus.edu.sg/cs/people/dongjs/)) and College of Computing and Data Science, Nanyang Technological University (hosted by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/)). 
 I got my Ph.D. degree in Cyberspace Security at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS) and School of Cyber Security, University of Chinese Academy of Sciences (UCAS), and got my bachelor degree in School of Computer Science and Technology, Shandong University.
 
-**I am always looking for academic collaboration in MPC, Homomorphic Encryption, and other Privacy-Computing Technologies. Feel free to contact me!**
+**I am always looking for academic collaboration in MPC, Homomorphic Encryption, and other Privacy-Computing Technologies!**
 
 
-Reseach Interests
+Research Interests
 ======
 - Secure Multi-Party Computation: 
-  - Familar: **Secret Sharing**, **Oblivious Transfer**, **Garbled Circuits**. 
-  - Basic: Homomorphic Encryption
+  - Familar: **Secret Sharing**, **Oblivious Transfer**. 
+  - Basic: Homomorphic Encryption, Garbled Circuits
 - Security and Privacy of Machine (Deep) Learning:
-  - Familiar: **MPC-Private ML/DL**, **Secure Aggregation of Federated Learning**
+  - Familiar: **MPC-Secure ML/DL**, **Secure Aggregation**, **Private LLM**
   - Basic: Byzantine-Robustness, Attacks & Privacy Leakages, Quantization
 Technologies 
 
@@ -32,3 +32,4 @@ Technologies
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=myIcfSm6nSakALWRvGdSczeehrJkaaIW7KM0lXM24Iw&cl=ffffff&w=a"></script>
   </div>
 </div>
+
