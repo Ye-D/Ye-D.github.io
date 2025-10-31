@@ -87,7 +87,7 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZO7id5IAAAAJ&hl=zh-CN"
-  email            :  "19950512dy at gmail dot com"
+  email            :  "dong_ye_ at outlook dot com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -293,3 +293,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
